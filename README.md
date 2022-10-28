@@ -1,4 +1,3 @@
 ### Hi, I'm Frixuu! 👋
 
-- :hammer: C#, Java, Kotlin, Rust, JavaScript, Go
-- :rocket: Trying new challenges every day
+:rocket: I'm doing a bunch of stuff you've never heard of. 
